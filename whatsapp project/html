@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Whatsapp Web</title>
+    <link rel="stylesheet" href="web.css">
+</head>
+<body>
+    <h1 class="what">whatsapp</h1>
+    
+    <div class="main">
+        
+       <div class="main1">
+        <h1>TO USE WHATSAPP ON YOUR COMPUTER:</h1>
+        <ol>
+            <li>OPEN WHATSAPP ON YOUR MOBILE</li>
+            <li>TAP MENU OR SETTING AND SLECTE LINKED DEVICE</li>
+            <li>POINT YOUR PHONE TO THIS SCREEN TO CAPTURE THE CODE</li>
+        </ol>
+        <h6>Need Help To Get Started?</h6>
+        <img class="img1" src="https://preview.redd.it/3ipyc7vvofh61.png?width=392&format=png&auto=webp&s=5cd31d0bebfc7d899e80d074ac1f1900b3ccccef" alt="bar code"> <br/>
+        <input type="checkbox" id="checkbox">  <label for="checkbox">keep me signed in</label>
+      
+
+    </div>
+    <img class="img2" src="https://web.whatsapp.com/img/qr-video_0c6ec69b054fdeb31cf3e5e10290fd8e.png" alt="">
+    </div>
+    
+
+    
+</body>
+</html>
